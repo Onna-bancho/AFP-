@@ -1,8 +1,8 @@
 body {
     background-image: url(images/Untitled\ design\(1\).jpg);
     background-repeat: no-repeat;
-    background-size: 110% 80%;
-    height: 15vh;
+    background-size: 110% 70%;
+    height: 25vh;
     box-sizing: border-box;
     display: block;
     float: none;
@@ -244,7 +244,7 @@ body {
         padding: 30px;
         color: rgb(12, 13, 49);
         transform: translateY(-100%);
-        padding-bottom: 10px;
+        padding-bottom: 50px;
         
       }
     
